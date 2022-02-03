@@ -4,18 +4,18 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Frontend eğitiminde oluşturd
 * Öncellikle projeyi klonlayın.
 
 
- `  git clone https://github.com/burcutokol/kodluyoruzilkrepo.git ` 
+ git clone https://github.com/burcutokol/kodluyoruzilkrepo.git 
 ## Usage
 * Projeyi klonladıktan sonra Visual Studio Code programında açınız. 
 * Linux için:
 
- ` ` `  
-cd kodluyoruzilkrepo 
-` ` `
 
-` ` `
+cd kodluyoruzilkrepo 
+
+
+
 code
-` ` `
+
  
 ## Contributing
 * Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
